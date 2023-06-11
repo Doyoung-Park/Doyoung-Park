@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Doyoung-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doyoung-Park&show_icons=true&theme=radical)
-<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doyoung-Park&layout=compact&theme=tokyonight)
