@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Backend Developer 👋
 
 <!--
 **Doyoung-Park/Doyoung-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ![Doyoung-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doyoung-Park&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doyoung-Park&layout=compact&theme=tokyonight)
+<!--  ![Doyoung-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doyoung-Park&show_icons=true&theme=radical) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doyoung-Park&layout=compact&theme=tokyonight) -->
 
