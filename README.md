@@ -1,5 +1,5 @@
 ### Doyoung Park 🚀
-#### DevOps Engineer.
+#### Backend/DevOps Engineer.
 
 <!--
 **Doyoung-Park/Doyoung-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
